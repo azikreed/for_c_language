@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+// sonning darajasini topish
 
 int main(){
   int son, daraja, natija;
