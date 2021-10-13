@@ -7,11 +7,11 @@ int main(){
   printf("p: ");
   scanf("%f", &p);
 
-  printf("r: ");
-  scanf("%f", &r);
-
   printf("t: ");
   scanf("%f", &t);
+
+  printf("r: ");
+  scanf("%f", &r);
 
   CI = p*(pow((1+r/100), t));
   printf("CI = %f", CI);
