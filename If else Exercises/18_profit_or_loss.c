@@ -19,7 +19,5 @@ int main() {
     printf("No profit No loss");
   }
 
-
-
   return 0;
 }
